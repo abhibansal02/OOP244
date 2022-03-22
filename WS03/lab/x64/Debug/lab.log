@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Train.cpp
+C:\Users\Abhi\source\repos\OOP-Workshops\WS03\lab\Train.cpp(23,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  lab.vcxproj -> C:\Users\Abhi\source\repos\OOP-Workshops\WS03\lab\x64\Debug\lab.exe

@@ -1,0 +1,10 @@
+/* ------------------------------------------------------
+Workshop 3 part 2
+Name: Abhi Bansal
+Email: abansal19@myseneca.ca
+Date: 02/06/2022
+Section: NMM
+ID: 122132210
+--------------------------------------------------------*/
+
+This workshop helps us to understand how the classes work in obeject oriented an how to define types. Private data type is not accessible outside the class and public data type can be accessed outside it. In order to use private data types we have to access them in public first and then we can indirectly access those since pulic data types will be doing the work for us. In order memeber functions of a class The streaming libraries are used to extract the data and show the expected output as required.
